@@ -11,4 +11,4 @@ AstroHavenDEV/AstroHavenDEV is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="./controllers_brief.svg">
+<img src="./github-contribution-grid-snake.svg">
